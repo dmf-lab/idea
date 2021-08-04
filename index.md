@@ -8,11 +8,13 @@ The International Design Engineering Annual (IDEA) Challenge is an annual design
 4. 
 These areas are of particular importance now as it will be two consecutive years without in-person conferences for the community, meaning that many Postgraduate Researchers have not interacted extensively with others in their research field.
 
-###Who will be hosting?
+### Who will be hosting?
+
 IDEA 2021 will be hosted by the University of Bristol’s Design and Manufacturing Futures lab http://www.dmf-lab.co.uk.  Due to ongoing COVID restrictions, this will be hosted virtually from September 6thth to the 10th corresponding to 4 days’ designing and making with final design submissions and presentations occurring on the fifth day (10th September from 10am BST).  Participation by individual teams will be aligned with local coronavirus restrictions but is permitted to be virtual, in person or hybrid.
 
 
-###What’s the prize?
+### What’s the prize?
+
 The much-coveted IDEA Cup.  This will be presented virtually or in person after the competition. Acceptance speeches not essential but encouraged.  
 
 What is the benefit for participating research groups?
@@ -22,10 +24,12 @@ What is the benefit for participating research groups?
 -	Team building exercise within research groups,
 -	Winning team can design and host next year’s competition. But they will also have to coordinate the IDEA annual publication (paper).
 
-###Who can participate?
+### Who can participate?
+
 Anyone is welcome to participate from post-graduate level and up with an interest and/or involvement in the field of engineering design research.  Teams are expected to have 3-4 members.  
 
-###What's in it for participants? 
+### What's in it for participants? 
+
 1. The opportunity to meet other researchers from groups around the world, foster community and create new international research collaboration opportunities.
 2. Develop key skills in Rapid Product Development.
 3. Compete with design experts across the globe.
@@ -34,7 +38,8 @@ Anyone is welcome to participate from post-graduate level and up with an interes
 6. Gain ECTS towards your studies (institution dependent).
 
 
-##How do I sign up?
+## How do I sign up?
+
 To sign up, or for more information please contact mark.goudswaard@bristol.ac.uk.
 
 
