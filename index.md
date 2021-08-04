@@ -1,6 +1,8 @@
-## The International Design Engineering Annual (IDEA) Challenge ![Old Logo](https://github.com/dmf-lab/idea/blob/gh-pages/logo.png)
+## The International Design Engineering Annual (IDEA) Challenge 
 
 <!-- Really useful site for editing this page! https://guides.github.com/features/mastering-markdown/ -->
+
+![Old Logo](https://github.com/dmf-lab/idea/blob/gh-pages/logo.png)
 
 The International Design Engineering Annual (IDEA) Challenge is an annual design competition involving labs from the Engineering Design academic community.  It aims to:
 
