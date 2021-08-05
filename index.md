@@ -42,5 +42,5 @@ Anyone is welcome to participate from post-graduate level and up with an interes
 
 ## How do I sign up?
 
-To sign up, or for more information please contact mark.goudswaard@bristol.ac.uk.
+To sign up please complete the form here https://forms.office.com/r/fM7P3MpTAp, or for more information please contact mark.goudswaard@bristol.ac.uk.
 
