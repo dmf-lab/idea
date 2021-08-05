@@ -13,7 +13,7 @@ The International Design Engineering Annual (IDEA) Challenge is an annual design
 
 ### Who will be hosting?
 
-IDEA 2021 will be hosted by the University of Bristol’s [Design and Manufacturing Futures Lab](http://www.dmf-lab.co.uk).  Due to ongoing COVID restrictions, this will be hosted virtually from September 6thth to the 10th corresponding to 4 days’ designing and making with final design submissions and presentations occurring on the fifth day (10th September from 10am BST).  Participation by individual teams will be aligned with local coronavirus restrictions but is permitted to be virtual, in person or hybrid.
+IDEA 2021 will be hosted by the University of Bristol’s [Design and Manufacturing Futures Lab](http://www.dmf-lab.co.uk).  Due to ongoing COVID restrictions, this will be hosted virtually from September 6th to the 9th corresponding to 3.5 days’ designing and making with final design submissions and presentations occurring on the afternoon of the 4th day (9th September from 3.30pm BST).  Participation by individual teams will be aligned with local coronavirus restrictions but is permitted to be virtual, in person or hybrid.
 
 ### What’s the prize?
 
