@@ -11,15 +11,36 @@ The International Design Engineering Annual (IDEA) Challenge is an annual design
 3. Foster community across Engineering Design Research groups.
 4. These areas are of particular importance now as it will be two consecutive years without in-person conferences for the community, meaning that many Postgraduate Researchers have not interacted extensively with others in their research field.
 
+## The IDEA Challenge 2021
+
+The inaugural IDEA challenge ran in September 2021 and required the development of vaccine distribution solutions for rural, hard to reach communities in Colombia - a country with significant variation in climate and geography. Fourteen participants from four institutions, spent four days designing and prototyping solutions before a final pitch to a panel featuring both industry and academic experts. Testimonials from a number of participants are below:
+• “The topic was interesting, and was really fun to have a challenge where we had to apply the things we teach and research. The format four-day format was good. It was interesting to compare our skills with other labs from Europe”
+• “Good team-building exercise for the lab. A good way of looking into how other labs design new ideas.”
+• “It was a nice challenge, and good to be able to be introduced to researchers at other universities (especially as we've all missed out on this over the last couple of years).”
+• “I liked getting out of the day-to-day work and using my brain to focus on one problem to solve together. it was good to work together as a team on location instead of the working from home situation in the Netherlands (it was a very nice break!). The challenge was connected to what was happening in the world so it felt like we could actually help work this out” 
+
+In addition to great feedback from participants, the resultant dataset featured over 200 prototypes, their underpinning rationale and explicit connections between their prototyping influences and creators. To date, 3 publications have been submitted for review using data from the study with more in the pipeline. 
+
+## Thie IDEA Challenge 2022
+
 ### Who will be hosting?
 
-IDEA 2021 will be hosted by the University of Bristol’s [Design and Manufacturing Futures Lab](http://www.dmf-lab.co.uk).  Due to ongoing COVID restrictions, this will be hosted virtually from September 6th to the 9th corresponding to 3.5 days’ designing and making with final design submissions and presentations occurring on the afternoon of the 4th day (9th September from 3.30pm BST).  Participation by individual teams will be aligned with local coronavirus restrictions but is permitted to be virtual, in person or hybrid.
+IDEA 2022 will be hosted by NTNU’s TrollLabs and the University of Bristol’s Design and Manufacturing Futures lab. The challenge will be hosted virtually from April 25th to the 28th corresponding to 3.5 days’ designing and making with final design submissions and presentations occurring on the 4th day.  Participation by individual teams will be aligned with local coronavirus restrictions but is permitted to be virtual, in person or hybrid.
+
+### What's the design challenge
+
+For the IDEA challenge 2022, the overarching theme is **Rapid Product Development of low-cost, portable, renewable energy systems**.  In addressing this challenge, teams are expected to design both physical and virtual prototypes. The design challenge will be given to the teams on day 1 of the competition.
+
+### What's the study?
+
+The study will be used as a platform to generate a dataset that can permit better understanding of prototyping practice, and the use of collaborative spaces during design activities.  This will be achieved by using Pro2BoothLite® (a lightweight prototype capture app that can be run from a mobile phone, tablet or laptop), and a SPUDD (Space Utilisation During Design) rig.  The dataset will be used by the organising labs as the basis for a joint publication that includes all participants as named co-authors – CERN Style!
 
 ### What’s the prize?
 
 The much-coveted IDEA Cup.  This will be presented virtually or in person after the competition. Acceptance speeches not essential but encouraged.  
 
-What is the benefit for participating research groups?
+### What is the benefit for participating research groups?
+
 -	Access to the datasets generated during the competition.
 -	Opportunities for collaborative research using the datasets.
 -	Stimulate collaboration between research groups.
@@ -39,7 +60,6 @@ Anyone is welcome to participate from post-graduate level and up with an interes
 5. The option to be a named author on a collaborative research paper presenting the findings of the study.
 6. Gain ECTS towards your studies (institution dependent).
 
-
 ## How do I sign up?
 
-To sign up please [complete the form here](https://forms.office.com/r/fM7P3MpTAp), or for more information please contact project lead [Mark Goudswaard](mailto:mark.goudswaard@bristol.ac.uk) mark.goudswaard@bristol.ac.uk
+To sign up please [complete the form here INPUT LINK](), or for more information please contact project lead [Daniel Ege](mailto:daniel@nasjonalparkhagen.no) daniel@nasjonalparkhagen.no
