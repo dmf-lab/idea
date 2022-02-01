@@ -14,10 +14,10 @@ The International Design Engineering Annual (IDEA) Challenge is an annual design
 ## The IDEA Challenge 2021
 
 The inaugural IDEA challenge ran in September 2021 and required the development of vaccine distribution solutions for rural, hard to reach communities in Colombia - a country with significant variation in climate and geography. Fourteen participants from four institutions, spent four days designing and prototyping solutions before a final pitch to a panel featuring both industry and academic experts. Testimonials from a number of participants are below:
-• “The topic was interesting, and was really fun to have a challenge where we had to apply the things we teach and research. The format four-day format was good. It was interesting to compare our skills with other labs from Europe”
-• “Good team-building exercise for the lab. A good way of looking into how other labs design new ideas.”
-• “It was a nice challenge, and good to be able to be introduced to researchers at other universities (especially as we've all missed out on this over the last couple of years).”
-• “I liked getting out of the day-to-day work and using my brain to focus on one problem to solve together. it was good to work together as a team on location instead of the working from home situation in the Netherlands (it was a very nice break!). The challenge was connected to what was happening in the world so it felt like we could actually help work this out” 
+- “The topic was interesting, and was really fun to have a challenge where we had to apply the things we teach and research. The format four-day format was good. It was interesting to compare our skills with other labs from Europe”
+- “Good team-building exercise for the lab. A good way of looking into how other labs design new ideas.”
+- “It was a nice challenge, and good to be able to be introduced to researchers at other universities (especially as we've all missed out on this over the last couple of years).”
+- “I liked getting out of the day-to-day work and using my brain to focus on one problem to solve together. it was good to work together as a team on location instead of the working from home situation in the Netherlands (it was a very nice break!). The challenge was connected to what was happening in the world so it felt like we could actually help work this out” 
 
 In addition to great feedback from participants, the resultant dataset featured over 200 prototypes, their underpinning rationale and explicit connections between their prototyping influences and creators. To date, 3 publications have been submitted for review using data from the study with more in the pipeline. 
 
